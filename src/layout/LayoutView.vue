@@ -1,6 +1,6 @@
 <template>
   <TopHeaderView />
-  <LayoutView />
+  <LeftMenuView />
   <FooterView />
 </template>
 
